@@ -1,6 +1,8 @@
 # Movie Engine 🎬🤖
 
 **Movie Engine** is a powerful Chrome extension that helps you find your next favorite film and provides deep, AI-powered insights using Google's Gemini API.
+Youtube Link: https://studio.youtube.com/channel/UC_rg_eFrUsvJ5A4yEpaypQw
+
 
 ## Features
 
